@@ -1,4 +1,4 @@
 # Demo1
-1st repsitorybr
+1st repsitory
 <br>
 Author-Riya
